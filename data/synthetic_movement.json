@@ -1,0 +1,12 @@
+{
+  "title": "Synthetic sustained movement slowdown",
+  "samples": [
+    { "timestamp_seconds": 0.0, "speed_body_lengths_per_second": 1.0 },
+    { "timestamp_seconds": 0.5, "speed_body_lengths_per_second": 0.9 },
+    { "timestamp_seconds": 1.0, "speed_body_lengths_per_second": 1.1 },
+    { "timestamp_seconds": 1.5, "speed_body_lengths_per_second": 0.95 },
+    { "timestamp_seconds": 2.0, "speed_body_lengths_per_second": 0.12 },
+    { "timestamp_seconds": 2.5, "speed_body_lengths_per_second": 0.1 },
+    { "timestamp_seconds": 3.0, "speed_body_lengths_per_second": 0.08 }
+  ]
+}
